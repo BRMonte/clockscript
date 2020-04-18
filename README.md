@@ -1,1 +1,1 @@
-Pretty straighfowared Vanilla JS + CSS clock
+Pretty straighfoward Vanilla JS + CSS clock
